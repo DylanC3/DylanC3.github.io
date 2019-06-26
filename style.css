@@ -1,0 +1,51 @@
+body {
+    background: url(images/sfpic.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+
+    text-align: center;
+}
+.green-text {
+    color: green !important;
+}
+
+p {
+    font-size: 16px;
+    font-family: monospace;
+}
+
+h2 {
+    font-size: 25px;
+}
+
+.smaller-image {
+    width: 200px;
+    height: 150px;
+}
+
+.larger-image {
+    width: 500px;
+    height: 400px;
+}
+
+.thin-green-border {
+    border-color: green;
+    border-width: 3px;
+    border-style: solid;
+}
+
+.silver-background {
+    background-color: silver;
+}
+
+.dark-green-background {
+    background-color: darkgreen;
+}
+
+[type="checkbox"] {
+    margin: 20px 0px 20px 0px;
+}
+
+[type="radio"] {
+    margin: 20px 0px 20px 0px;
+}
